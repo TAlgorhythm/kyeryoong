@@ -6,7 +6,7 @@ function solution(maps) {
   const columns = maps[0].length; // 가로 길이
 
   // 너비 우선 탐색 알고리즘
-  function BFS(start_x, start_y) {
+  function BFS(x, y) {
     // 동서남북 이동 거리
     const dx = [0, 0, -1, 1];
     const dy = [-1, 1, 0, 0];
@@ -15,7 +15,7 @@ function solution(maps) {
     var queue = [];
 
     // 시작점을 큐에 넣고 알고리즘 시작
-    queue.push([start_x, start_y]);
+    queue.push([x, y]);
 
     // 큐가 비어잇지 않을 때 까지 계속 실행
     while (queue.length > 0) {
