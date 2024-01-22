@@ -1,5 +1,5 @@
 // P1844. 게임 맵 최단거리
-// [백준] https://school.programmers.co.kr/learn/courses/30/lessons/1844
+// [프로그래머스] https://school.programmers.co.kr/learn/courses/30/lessons/1844
 
 function solution(maps) {
   const rows = maps.length; // 세로 길이
