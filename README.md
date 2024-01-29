@@ -15,3 +15,4 @@ Problem Solving with the World's Most Popular Language JavaScript
 | 출처                                              | 이름            | 유형        | 난이도 |
 | ------------------------------------------------- | --------------- | ----------- | ------ |
 | 백준 [1932](https://www.acmicpc.net/problem/1932) | **정수 삼각형** | 동적 계획법 | 실버 1 |
+| 백준 [2003](https://www.acmicpc.net/problem/2003) | **수들의 합 2** | 투 포인터   | 실버 4 |
