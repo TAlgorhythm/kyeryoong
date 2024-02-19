@@ -20,11 +20,11 @@ Problem Solving with the World's Most Popular Language JavaScript
 
 ## 📆 Day 3 (2024.02.06)
 
-| 출처                                              | 이름          | 유형        | 난이도 | 풀이 파일                                                                                                                                    |
-| ------------------------------------------------- | ------------- | ----------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 백준 [1927](https://www.acmicpc.net/problem/1927) | **최소 힙**   | 동적 계획법 | 실버 2 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Heap/B1927_%EC%B5%9C%EC%86%8C%20%ED%9E%99.js)                   |
-| 백준 [2559](https://www.acmicpc.net/problem/2559) | **수열**      | 투 포인터   | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Two%20Pointer/B2559_%EC%88%98%EC%97%B4.js)                      |
-| 백준 [3273](https://www.acmicpc.net/problem/3273) | **두수의 합** | 투 포인터   | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Two%20Pointer/B3273_%EB%91%90%EC%88%98%EC%9D%98%20%ED%95%A9.js) |
+| 출처                                              | 이름           | 유형        | 난이도 | 풀이 파일                                                                                                                                    |
+| ------------------------------------------------- | -------------- | ----------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 백준 [1927](https://www.acmicpc.net/problem/1927) | **최소 힙**    | 동적 계획법 | 실버 2 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Heap/B1927_%EC%B5%9C%EC%86%8C%20%ED%9E%99.js)                   |
+| 백준 [2559](https://www.acmicpc.net/problem/2559) | **수열**       | 투 포인터   | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Two%20Pointer/B2559_%EC%88%98%EC%97%B4.js)                      |
+| 백준 [3273](https://www.acmicpc.net/problem/3273) | **두 수의 합** | 투 포인터   | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Two%20Pointer/B3273_%EB%91%90%EC%88%98%EC%9D%98%20%ED%95%A9.js) |
 
 ## 📆 Day 4 (2024.02.20)
 

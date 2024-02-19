@@ -1,4 +1,4 @@
-// B3273. 수들의 합 2
+// B3273. 두 수의 합
 // [백준] https://www.acmicpc.net/problem/3273
 
 const input = require("fs")
