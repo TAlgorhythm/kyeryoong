@@ -8,11 +8,7 @@ function rotateString(s) {
 
 // 스택의 마지막 원소를 반환하는 함수
 function lastIndex(stack) {
-  if (stack.length === 0) {
-    return null;
-  } else {
-    return stack[stack.length - 1];
-  }
+  return stack.slice(-1)[0];
 }
 
 // 올바른 괄호 문자열인지 확인하는 함수
@@ -23,9 +19,7 @@ function checkString(s) {
   for (let i = 0; i < s.length; i++) {
     var currentIndex = s[i];
 
-    if (stack.length === 0) {
-      stack.push(currentIndex);
-    } else if (currentIndex === ")" && lastIndex(stack) === "(") {
+    if (currentIndex === ")" && lastIndex(stack) === "(") {
       stack.pop();
     } else if (currentIndex === "]" && lastIndex(stack) === "[") {
       stack.pop();
