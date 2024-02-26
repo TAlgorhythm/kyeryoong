@@ -34,7 +34,7 @@ Problem Solving with the World's Most Popular Language JavaScript
 | 백준 [10826](https://www.acmicpc.net/problem/10826)                                   | **피보나치 수 4** | 동적 계획법 | 실버 5 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/B10826_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%204.js) |
 | 프로그래머스 [12913](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | **땅따먹기**      | 동적 계획   | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/P12913_%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.js)                 |
 
-## 📆 Day 4 (2024.02.20)
+## 📆 Day 5 (2024.02.27)
 
 | 출처                                                                                  | 이름              | 유형      | 난이도 | 풀이 파일                                                                                                                                                             |
 | ------------------------------------------------------------------------------------- | ----------------- | --------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
