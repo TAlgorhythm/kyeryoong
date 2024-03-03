@@ -32,8 +32,7 @@ function solution(test_case) {
   }
 
   function BFS(x, y) {
-    var queue = [];
-    queue.push([x, y]);
+    var queue = [[x, y]];
 
     while (queue.length > 0) {
       var [x, y] = queue.shift();

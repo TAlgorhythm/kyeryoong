@@ -12,10 +12,7 @@ function solution(maps) {
     const dy = [-1, 1, 0, 0];
 
     // 큐 사용
-    var queue = [];
-
-    // 시작점을 큐에 넣고 알고리즘 시작
-    queue.push([x, y]);
+    var queue = [[x, y]];
 
     // 큐가 비어잇지 않을 때 까지 계속 실행
     while (queue.length > 0) {
