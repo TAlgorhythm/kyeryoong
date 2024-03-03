@@ -32,7 +32,7 @@ function solution(triangle) {
     triangle[i][i] = triangle[i - 1][i - 1] + triangle[i][i];
   }
 
-  console.log(triangle[size - 1].sort((a, b) => b - a)[0]);
+  return triangle[size - 1].sort((a, b) => b - a)[0];
 }
 
-solution(triangle);
+console.log(solution(triangle));

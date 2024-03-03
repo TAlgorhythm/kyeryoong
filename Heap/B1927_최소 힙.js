@@ -135,7 +135,7 @@ function solution(array) {
     }
   }
 
-  console.log(results.join("\n"));
+  return results.join("\n");
 }
 
-solution(array);
+console.log(solution(array));
