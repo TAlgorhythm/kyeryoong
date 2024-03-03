@@ -11,7 +11,7 @@ const triangle = [];
 const size = input[0];
 
 for (let i = 0; i < size; i++) {
-  triangle.push(input[i + 1].split(" ").map((elem) => Number(elem)));
+  triangle.push(input[i + 1].split(" ").map(Number));
 }
 
 function max(a, b) {

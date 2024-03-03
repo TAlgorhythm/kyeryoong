@@ -12,12 +12,8 @@ const test_case_length = input[0];
 
 for (let i = 0; i < test_case_length; i++) {
   const map_size = Number(input[i * 3 + 1]);
-  const [start_x, start_y] = input[i * 3 + 2]
-    .split(" ")
-    .map((elem) => Number(elem));
-  const [target_x, target_y] = input[i * 3 + 3]
-    .split(" ")
-    .map((elem) => Number(elem));
+  const [start_x, start_y] = input[i * 3 + 2].split(" ").map(Number);
+  const [target_x, target_y] = input[i * 3 + 3].split(" ").map(Number);
 
   test_cases.push({ map_size, start_x, start_y, target_x, target_y });
 }
