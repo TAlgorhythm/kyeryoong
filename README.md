@@ -41,3 +41,9 @@ Problem Solving with the World's Most Popular Language JavaScript
 | 프로그래머스 [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | **올바른 괄호**   | 스택 & 큐 | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Stack%20%26%20Queue/P12909_%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js)          |
 | 프로그래머스 [76502](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | **괄호 회전하기** | 스택 & 큐 | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Stack%20%26%20Queue/P76502_%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js) |
 | 프로그래머스 [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | **기능개발**      | 스택 & 큐 | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Stack%20%26%20Queue/P42586_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)                      |
+
+## 📆 Day 6 (2024.03.05)
+
+| 출처                                                                                  | 이름              | 유형      | 난이도 | 풀이 파일                                                                                                                                                             |
+| ------------------------------------------------------------------------------------- | ----------------- | --------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 백준 [7576](https://www.acmicpc.net/problem/7576) | **토마토**   | DFS & BFS | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/B7576_%ED%86%A0%EB%A7%88%ED%86%A0.js)          |
