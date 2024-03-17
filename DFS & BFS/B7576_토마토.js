@@ -34,7 +34,7 @@ const input = require("fs")
 // 토마토 상자
 const box = [];
 
-// 톻마토 상자의 가로와 세로 길이
+// 토마토 상자의 가로와 세로 길이
 const [m, n] = input[0].split(" ");
 
 for (let i = 0; i < n; i++) {
