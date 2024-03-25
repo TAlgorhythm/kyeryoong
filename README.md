@@ -1,6 +1,5 @@
-Problem Solving with the World's Most Popular Language JavaScript
-
-![image](https://github.com/TAlgorhythm/kyeryoong/assets/98510309/d4d9049e-2baf-4a0e-92f5-af0e3067f2dc)
+![image](https://github.com/TAlgorhythm/kyeryoong/assets/98510309/0e0d7fd5-14e4-4007-9fae-6a62aa1290c1)
+<br /><br /><br /><br /><br /><br />
 
 ## 📆 Day 1 (2024.01.23)
 
