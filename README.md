@@ -1,4 +1,4 @@
-![image](https://github.com/TAlgorhythm/kyeryoong/assets/98510309/0e0d7fd5-14e4-4007-9fae-6a62aa1290c1)
+![image](https://github.com/TAlgorhythm/kyeryoong/assets/98510309/b7e5510a-8a6d-4d9b-88fe-09348cb04606)
 <br /><br /><br /><br /><br /><br />
 
 ## 📆 Day 1 (2024.01.23)
