@@ -49,7 +49,7 @@ Problem Solving with the World's Most Popular Language JavaScript
 | 백준 [7576](https://www.acmicpc.net/problem/7576)   | **토마토**   | DFS & BFS | 골드 5 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/B7576_%ED%86%A0%EB%A7%88%ED%86%A0.js)           |
 | 백준 [10026](https://www.acmicpc.net/problem/10026) | **적록색약** | DFS & BFS | 골드 5 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/B10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.js) |
 
-## 📆 Day 6 (2024.03.05)
+## 📆 Day 6 (2024.03.12)
 
 | 출처                                                                                  | 이름                 | 유형             | 난이도 | 풀이 파일                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------- | -------------------- | ---------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
