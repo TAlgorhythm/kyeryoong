@@ -49,9 +49,16 @@ Problem Solving with the World's Most Popular Language JavaScript
 | 백준 [7576](https://www.acmicpc.net/problem/7576)   | **토마토**   | DFS & BFS | 골드 5 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/B7576_%ED%86%A0%EB%A7%88%ED%86%A0.js)           |
 | 백준 [10026](https://www.acmicpc.net/problem/10026) | **적록색약** | DFS & BFS | 골드 5 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/B10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.js) |
 
-## 📆 Day 6 (2024.03.12)
+## 📆 Day 7 (2024.03.12)
 
 | 출처                                                                                  | 이름                 | 유형             | 난이도 | 풀이 파일                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------- | -------------------- | ---------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 프로그래머스 [43162](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | **네트워크**         | DFS & BFS        | Lv. 3  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/P43162_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.js)                                        |
 | 백준 [1197](https://www.acmicpc.net/problem/1197)                                     | **최소 스패닝 트리** | 최소 스패닝 트리 | 골드 4 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Minimum%20Spanning%20Tree/B1197_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC) |
+
+## 📆 Day 8 (2024.03.26)
+
+| 출처                                                                                  | 이름          | 유형      | 난이도 | 풀이 파일                                                                                                                                       | 비고                                                                           |
+| ------------------------------------------------------------------------------------- | ------------- | --------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 백준 [7569](https://www.acmicpc.net/problem/7569)                                     | **토마토**    | DFS & BFS | 골드 5 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/B7569_%ED%86%A0%EB%A7%88%ED%86%A0.js)              |                                                                                |
+| 프로그래머스 [43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | **단어 변환** | DFS & BFS | Lv. 3  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/DFS%20%26%20BFS/P43163_%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.js) | 리트코드 [Word Ladder](https://leetcode.com/problems/word-ladder/description/) |
