@@ -49,15 +49,15 @@ function solution(start, target) {
       // 위치 - 1 지점을 방문 처리
       visited[y] = true;
 
-      // 위치 -1로 이동하는 경우 시간을 1초 증가
+      // 위치 - 1 지점으로 이동하는 경우 시간을 1초 증가
       queue.push([y, currentTime + 1]);
     }
 
     if (z >= 0 && z <= 100000 && !visited[z]) {
-      // 위치 - 1 지점을 방문 처리
+      // 위치 + 1 지점을 방문 처리
       visited[z] = true;
 
-      // 위치 -1로 이동하는 경우 시간을 1초 증가
+      // 위치 + 1 지점으로 이동하는 경우 시간을 1초 증가
       queue.push([z, currentTime + 1]);
     }
   }
