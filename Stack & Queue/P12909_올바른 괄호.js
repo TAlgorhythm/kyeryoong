@@ -5,18 +5,18 @@ function lastIndex(stack) {
   return stack.slice(-1)[0];
 }
 
-function solution(s) {
+function solution(strs) {
+  strs = strs.split("");
+
   var stack = [];
 
-  for (let i = 0; i < s.length; i++) {
-    var currentIndex = s[i];
-
-    if (lastIndex(stack) === "(" && currentIndex === ")") {
+  strs.forEach((str) => {
+    if (lastIndex(stack) === "(" && str === ")") {
       stack.pop();
     } else {
-      stack.push(currentIndex);
+      stack.push(str);
     }
-  }
+  });
 
   return stack.length == [];
 }
