@@ -83,3 +83,10 @@
 | ------------------------------------------------------------------------------------- | --------------- | ---------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 프로그래머스 [42861](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | **섬 연결하기** | 최소 스패닝 트리 | Lv. 3  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Minimum%20Spanning%20Tree/P42861_%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.js) |
 | 프로그래머스 [12938](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | **최고의 집합** | 수학             | Lv. 3  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Mathematics/P12938_%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9.js)               |
+
+## 📆 Day 12 (2024.04.30)
+
+| 출처                                                                                  | 이름            | 유형      | 난이도 | 풀이 파일                                                                                                                                            |
+| ------------------------------------------------------------------------------------- | --------------- | --------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로그래머스 [12979](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | **기지국 설치** | 수학      | Lv. 3  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Mathematics/P12979_%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.js) |
+| 프로그래머스 [43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | **입국심사**    | 이분 탐색 | Lv. 3  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Binary%20Search/P43238_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js)         |
