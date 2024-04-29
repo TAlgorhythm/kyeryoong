@@ -37,3 +37,6 @@ function solution(n, stations, w) {
 
   return answer;
 }
+
+console.log(solution(11, [4, 11]));
+console.log(solution(16, [9]));
