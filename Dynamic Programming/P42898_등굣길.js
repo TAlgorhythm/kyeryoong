@@ -1,4 +1,4 @@
-// P42898. 땅따먹기
+// P42898. 등굣길
 // [프로그래머스] https://school.programmers.co.kr/learn/courses/30/lessons/42898
 
 function solution(m, n, puddles) {
