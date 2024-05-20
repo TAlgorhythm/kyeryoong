@@ -41,7 +41,7 @@ function solution(n) {
     }
   }
 
-  console.log(dp[n]);
+  return dp[n];
 }
 
-solution(n);
+console.log(solution(n));
