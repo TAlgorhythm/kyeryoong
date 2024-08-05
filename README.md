@@ -160,3 +160,10 @@
 | ------------------------------------------------------------------------------------- | ---------------- | ----------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | 백준 [1463](https://www.acmicpc.net/problem/1463)                                     | **1로 만들기**   | 동적 계획법 | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/B1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |        |
 | 프로그래머스 [70129](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | **다음 큰 숫자** | 투 포인터   | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Two%20Pointer/P42885_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.js)            | 탐욕법 |
+
+## 📆 Day 23 (2024.08.06)
+
+| 출처                                                | 이름             | 유형        | 난이도 | 풀이 파일                                                                                                                                                     | 비고 |
+| --------------------------------------------------- | ---------------- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 백준 [2579](https://www.acmicpc.net/problem/2579)   | **계단 오르기**  | 동적 계획법 | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/B2579_%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.js) |      |
+| 백준 [11727](https://www.acmicpc.net/problem/11727) | **2×n 타일링 2** | 동적 계획법 | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/B11727_2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81%202.js)      |
