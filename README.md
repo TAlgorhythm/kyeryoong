@@ -180,3 +180,10 @@
 | ------------------------------------------------- | ------------------- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | 백준 [9461](https://www.acmicpc.net/problem/9461) | **파도반 수열**     | 동적 계획법 | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/B9461_%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.js) |      |
 | 백준 [9095](https://www.acmicpc.net/problem/9095) | **1, 2, ,3 더하기** | 동적 계획법 | 실버 3 | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/B9095_1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.js)    |
+
+## 📆 Day 26 (2024.09.03)
+
+| 출처                                                                                  | 이름                 | 유형        | 난이도 | 풀이 파일                                                                                                                                                               |
+| ------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로그래머스 [12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | **멀리 뛰기**        | 동적 계획법 | Lv. 2  | [:ballot_box_with_check:](hhttps://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/P12914_%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.js)                  |
+| 프로그래머스 [12953](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | **N개의 최소공배수** | 수학        | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Mathematics/P12953_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js) |
