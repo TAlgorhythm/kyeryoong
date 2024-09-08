@@ -185,5 +185,12 @@
 
 | 출처                                                                                  | 이름                 | 유형        | 난이도 | 풀이 파일                                                                                                                                                               |
 | ------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 프로그래머스 [12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | **멀리 뛰기**        | 동적 계획법 | Lv. 2  | [:ballot_box_with_check:](hhttps://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/P12914_%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.js)                  |
+| 프로그래머스 [12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | **멀리 뛰기**        | 동적 계획법 | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Dynamic%20Programming/P12914_%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.js)                   |
 | 프로그래머스 [12953](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | **N개의 최소공배수** | 수학        | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Mathematics/P12953_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js) |
+
+## 📆 Day 27 (2024.09.10)
+
+| 출처                                                                                    | 이름            | 유형 | 난이도 | 풀이 파일                                                                                                                                            |
+| --------------------------------------------------------------------------------------- | --------------- | ---- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로그래머스 [12985](https://school.programmers.co.kr/learn/courses/30/lessons/12985)   | **예상 대진표** | 수학 | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Mathematics/P12985_%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.js) |
+| 프로그래머스 [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | **할인 행사**   | 구현 | Lv. 2  | [:ballot_box_with_check:](https://github.com/TAlgorhythm/kyeryoong/blob/main/Implementation/P131127_%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.js)      |
